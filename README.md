@@ -4,13 +4,7 @@ If you make interactive graphics for a living, the number and variety of platfor
 
 This repo is part of a session made by [Danny Wood](https://github.com/DanielJWood) and [Scott Pham](https://github.com/scottpham) for the [2016 SRCCON](http://srccon.org/) conference in Portland, Oregon.
 
-## The Plan
-
-1. Mini activity
-2. Group breakout
-3. Discussion
-
-### Platforms
+## Platforms
 Your newsroom may or may not be on this unexhaustive list of platforms, but let's think about how we may or may not tackle them. If we don't, think about why and how we communicate that
 - Your CMS
 - Static pages (apps.yournewsroom.com)
@@ -19,10 +13,16 @@ Your newsroom may or may not be on this unexhaustive list of platforms, but let'
 - Google Amp
 - Social/Email Newsletter
 
+## The Plan
+
+1. Mini activity
+2. Group breakout
+3. Discussion
+
 ### Mini Activity
 Which platforms give you the biggest headaches? Whether it's because of technical difficulties, design challenges or whatever, let us know.
 
-### Breakout
+## Breakout
 Your ability to power through platform constraints depends a lot on time and team size. We're going to break into groups and think about how to tell a story with data and graphics given a set of arbitrary constraints. Think about what kind of content you'll produce for each platform. Think about whether your content will translate easily between different platforms, or if you'll make pieces unique for the platform. If you decline to build something for a particular platform, think about why and how you'll communicate that to your newsroom.
 
 **Constraint 1**

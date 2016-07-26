@@ -2,7 +2,7 @@
 
 If you make interactive graphics for a living, the number and variety of platforms you have to publish for can be a little intimidating. Working with your news org's CMS is probably hard enough, but now you've got weird stuff like Facebook Instant Articles and Google Amp to think about. How do you address all these platforms and keep sane? And when is the right time to just say no?
 
-This repo is part of a session made by [Danny Wood](https://github.com/DanielJWood) and [Scott Pham](https://github.com/scottpham) for the [2016 SRCCON](http://srccon.org/) conference in Portland, Oregon.
+This repo is part of a session made by [Dan Wood](https://github.com/DanielJWood) and [Scott Pham](https://github.com/scottpham) for the [2016 SRCCON](http://srccon.org/) conference in Portland, Oregon.
 
 ## Platforms
 Your newsroom may or may not be on this unexhaustive list of platforms, but let's think about how we may or may not tackle them. If we don't, think about why and how we communicate that

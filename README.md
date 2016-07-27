@@ -19,21 +19,25 @@ Your newsroom may or may not be on this unexhaustive list of platforms, but let'
 2. Group breakout
 3. Discussion
 
-### Mini Activity
+## Mini Activity
 Which platforms give you the biggest headaches? Whether it's because of technical difficulties, design challenges or whatever, let us know.
 
 ## Breakout
-Your ability to power through platform constraints depends a lot on time and team size. We're going to break into groups and think about how to tell a story with data and graphics given a set of arbitrary constraints. Think about what kind of content you'll produce for each platform. Think about whether your content will translate easily between different platforms, or if you'll make pieces unique for the platform. If you decline to build something for a particular platform, think about why and how you'll communicate that to your newsroom.
+Your ability to power through platform constraints depends a lot on time and team size. We're going to break into groups and think about how to tell a story with data and graphics given a set of arbitrary constraints. 
 
-**Constraint 1**
+* [Download the data](https://github.com/scottpham/srccon_platform_constraints/blob/master/co2.xlsx?raw=true)
+
+Think about what kind of content you'll produce for each platform. Think about whether your content will translate easily between different platforms, or if you'll make pieces unique for the platform. If you decline to build something for a particular platform, think about why and how you'll communicate that to your newsroom.
+
+**Group 1**
 
 [Lonely Coder™](http://lcc-slack.heroku.com/)! One dev, no social media person. Short time frame (3-5 days).
 
-**Constraint 2**
+**Group 2**
 
 Small team. One developer, one (non coding) designer. No social media person. Medium timeframe (2 weeks).
 
-**Constraint 3**
+**Group 3**
 
 Big team: 1 front end developer, 1 backend developer, 1 designer, social media help. Long time frame (3-4 weeks).
 

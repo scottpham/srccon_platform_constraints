@@ -25,7 +25,7 @@ Which platforms give you the biggest headaches? Whether it's because of technica
 ## Breakout
 Your ability to power through platform constraints depends a lot on time and team size. We're going to break into groups and think about how to tell a story with data and graphics given a set of arbitrary constraints. 
 
-* [Download the data](https://github.com/scottpham/srccon_platform_constraints/blob/master/co2.xlsx?raw=true)
+* [Download the data excerpt](https://github.com/scottpham/srccon_platform_constraints/blob/master/co2.xlsx?raw=true) or if you're enterprising, pull out other stats from the larger report (like population, GDP, emissions by sector), found [here](http://www.iea.org/media/freepublications/stats/CO2Highlights2015tables.xls).
 
 Think about what kind of content you'll produce for each platform. Think about whether your content will translate easily between different platforms, or if you'll make pieces unique for the platform. If you decline to build something for a particular platform, think about why and how you'll communicate that to your newsroom.
 
@@ -40,6 +40,7 @@ Small team. One developer, one (non coding) designer. No social media person. Me
 **Group 3**
 
 Big team: 1 front end developer, 1 backend developer, 1 designer, social media help. Long time frame (3-4 weeks).
+
 
 
 
